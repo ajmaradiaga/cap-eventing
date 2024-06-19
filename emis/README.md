@@ -1,4 +1,4 @@
-# CAP Eventing with Event Mesh capability in SAP Integration Suite
+# CAP Eventing with Event Mesh capability in SAP Integration Suite (EMIS)
 
 This project contains a CAP application, to run locally, but connecting to the Event Mesh capability part of SAP Integration Suite for eventing.
 
