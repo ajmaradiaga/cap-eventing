@@ -1,7 +1,6 @@
 # CAP Eventing with Event Mesh capability in SAP Integration Suite
-CAP app to demonstrate eventing with SAP Event Mesh
 
-This project contains 3 separate CAP applications, to run locally, but connecting to the Event Mesh capability part of SAP Integration Suite for eventing.
+This project contains a CAP application, to run locally, but connecting to the Event Mesh capability part of SAP Integration Suite for eventing.
 
 ## EMIS Setup
 Make sure the Event Mesh capability is active (see https://help.sap.com/docs/integration-suite/sap-integration-suite/initiating-event-mesh?locale=en-US).
